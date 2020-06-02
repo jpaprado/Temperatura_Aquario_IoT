@@ -4,7 +4,7 @@
 #include <ESP8266WiFi.h>  // Importa a Biblioteca ESP8266WiFi
 #include <PubSubClient.h> // Importa a Biblioteca PubSubClient
 
-// Setup display SSD 1306
+// Setup display SSD1306
 
 #define SDA D1 //5
 #define SCL D2 //4
