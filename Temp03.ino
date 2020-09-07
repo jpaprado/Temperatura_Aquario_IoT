@@ -15,8 +15,8 @@ OneWire oneWire(D5);   // pino onde estah o sensor DS18B20
 DS18B20 sensor(&oneWire);
 
 // WIFI
-const char* SSID = "Galia"; // rede
-const char* PASSWORD = "1231231231"; // Senha da rede WI-FI
+const char* SSID = "REDE"; // rede
+const char* PASSWORD = "Senha"; // Senha da rede WI-FI
   
 // MQTT
 const char* MQTT_BROKER = "mqtt.eclipse.org"; //URL do broker MQTT que se deseja utilizar
