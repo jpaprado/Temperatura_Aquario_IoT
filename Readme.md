@@ -1,3 +1,3 @@
-# Controle de temperatura de aquário com o ESP8266 e com o sensor DS18B20.
+# Aquarium temperature control with ESP8266 and DS18B20 sensor.
 
-Este projeto descreve o hardware e o software utilizados no monitoramento da temperatura de um aquario.
+This project describes the hardware and software used to monitor the temperature of an aquarium.
